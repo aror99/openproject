@@ -534,6 +534,7 @@ es:
         invalid_url: 'no es una URL válida.'
         invalid_url_scheme: 'no es un protocolo admitido (permitidos: %{allowed_schemes}).'
         less_than_or_equal_to: "debe ser menor o igual a %{count}."
+        not_current_user: "is not the current user."
         not_a_date: "no es una fecha válida."
         not_a_datetime: "no es una fecha/hora válida."
         not_a_number: "No es un número."
@@ -1194,6 +1195,8 @@ es:
       blog: "Blog de OpenProject"
       forums: "Foro de la comunidad"
       newsletter: "Alertas de seguridad / boletín"
+  image_conversion:
+    imagemagick: 'Imagemagick'
   journals:
     changes_retracted: "Se deshicieron los cambios."
   links:
